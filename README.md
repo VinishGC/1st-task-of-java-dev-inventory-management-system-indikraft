@@ -1,1 +1,0 @@
-# 1st-task-of-java-dev-inventory-management-system-indikraft
